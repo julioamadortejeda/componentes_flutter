@@ -28,7 +28,7 @@ class CardPage extends StatelessWidget {
               leading: Icon(Icons.photo_album, color: Colors.blue),
               title: Text('Titulo de la tarjeta'),
               subtitle: Text(
-                  'Push, Cámara, Mapas, REST API, SQLite, CRUD, Tokens, Storage, Preferencias de usuario, PlayStore, AppStore, Bloc y más!')),
+                  'Push, Cámara, Mapas, REST API, SQLite, CRUD, Tokens, Storage, Preferencias de usuario, PlayStore!')),
           Row(
             mainAxisAlignment: MainAxisAlignment.end,
             children: <Widget>[
